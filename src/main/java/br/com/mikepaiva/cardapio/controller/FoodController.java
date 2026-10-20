@@ -2,8 +2,7 @@ package br.com.mikepaiva.cardapio.controller;
 
 import br.com.mikepaiva.cardapio.domain.FoodRequestDTO;
 import br.com.mikepaiva.cardapio.domain.FoodResponseDTO;
-import br.com.mikepaiva.cardapio.food.Food;
-import br.com.mikepaiva.cardapio.food.FoodRepository;
+import br.com.mikepaiva.cardapio.repository.Food;
 import br.com.mikepaiva.cardapio.service.FoodService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

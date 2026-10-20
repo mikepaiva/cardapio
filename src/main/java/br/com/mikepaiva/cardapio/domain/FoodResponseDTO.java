@@ -1,6 +1,6 @@
 package br.com.mikepaiva.cardapio.domain;
 
-import br.com.mikepaiva.cardapio.food.Food;
+import br.com.mikepaiva.cardapio.repository.Food;
 
 import java.util.UUID;
 

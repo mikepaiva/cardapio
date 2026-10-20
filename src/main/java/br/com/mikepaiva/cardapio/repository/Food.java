@@ -1,4 +1,4 @@
-package br.com.mikepaiva.cardapio.food;
+package br.com.mikepaiva.cardapio.repository;
 
 import br.com.mikepaiva.cardapio.domain.FoodRequestDTO;
 import jakarta.persistence.*;

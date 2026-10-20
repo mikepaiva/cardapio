@@ -1,4 +1,4 @@
-package br.com.mikepaiva.cardapio.food;
+package br.com.mikepaiva.cardapio.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

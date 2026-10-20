@@ -2,8 +2,8 @@ package br.com.mikepaiva.cardapio.service;
 
 import br.com.mikepaiva.cardapio.domain.FoodRequestDTO;
 import br.com.mikepaiva.cardapio.domain.FoodResponseDTO;
-import br.com.mikepaiva.cardapio.food.Food;
-import br.com.mikepaiva.cardapio.food.FoodRepository;
+import br.com.mikepaiva.cardapio.repository.Food;
+import br.com.mikepaiva.cardapio.repository.FoodRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
